@@ -40,7 +40,7 @@ Key tasks include:
 
 Displays counts of patients grouped by features such as cholesterol, glucose, smoking, alcohol intake, and activity — separated by cardiovascular disease status.
 
-![Categorical Plot](exmaples/Figure_1.png)
+![Categorical Plot](examples/Figure_1.png)
 
 ---
 
