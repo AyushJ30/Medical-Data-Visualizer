@@ -40,7 +40,7 @@ Key tasks include:
 
 Displays counts of patients grouped by features such as cholesterol, glucose, smoking, alcohol intake, and activity — separated by cardiovascular disease status.
 
-![Categorical Plot](Figure_1.png)
+![Categorical Plot](exmaples/Figure_1.png)
 
 ---
 
@@ -48,7 +48,7 @@ Displays counts of patients grouped by features such as cholesterol, glucose, sm
 
 Reveals correlation between variables like BMI, age, blood pressure, and disease outcome.
 
-![Heatmap](Figure_2.png)
+![Heatmap](examples/Figure_2.png)
 
 ---
 
